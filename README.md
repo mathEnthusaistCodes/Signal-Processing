@@ -5,7 +5,7 @@ Some basic and advanced speech and signal processing algorithms in C++ from grou
 Uses SDL for plotting - https://wiki.libsdl.org/
 
 How to use: 
-1) Compile using your favorite C++ compiler. Add SDL include files and link against it's libraries
+1) Compile using your favorite C++ compiler (uses c++11). Add SDL include files and link against it's libraries
 2) Run and you will have the follwing options: 
 
 >> Type required test
